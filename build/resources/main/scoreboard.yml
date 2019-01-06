@@ -1,0 +1,66 @@
+scoreboard-enabled: true
+Scoreboard:
+  title:
+    animation enabled: true
+    update delay: 5
+    animation:
+    - '&aSkyblock'
+    - '&fS&akyblock'
+    - '&fSk&ayblock'
+    - '&fSky&ablock'
+    - '&fSkyb&alock'
+    - '&fSkybl&aock'
+    - '&fSkyblo&ack'
+    - '&fSkybloc&ak'
+    - '&fSkyblock'
+    - '&aS&fkyblock'
+    - '&aSk&fyblock'
+    - '&aSky&fblock'
+    - '&aSkyb&flock'
+    - '&aSkybl&fock'
+    - '&aSkyblo&fck'
+    - '&aSkybloc&fk'
+  lines:
+    spacer:
+      animation enabled: false
+      update delay: 1000000
+      line spot: 16
+      animation:
+      - '&7&m------------------------'
+    island level:
+      animation enabled: false
+      update delay: 20
+      line spot: 15
+      animation:
+      - '&aIsland Level: &f{island_level}'
+    online:
+      animation enabled: false
+      update delay: 20
+      line spot: 14
+      animation:
+      - '&aIsland Members:&f {island_online}/{island_coop_size}'
+    rank:
+      animation enabled: false
+      update delay: 20
+      line spot: 13
+      animation:
+      - '&aIsland Rank:&f {island_rank}'
+    spacer2:
+      animation enabled: false
+      update delay: 1000000
+      line spot: 12
+      animation:
+      - '&r'
+    donate:
+      animation enabled: true
+      update delay: 20
+      line spot: 11
+      animation:
+      - '&aDonate at:'
+      - '&fwww.website.com'
+    spacer3:
+      animation enabled: false
+      update delay: 1000000
+      line spot: 10
+      animation:
+      - '&7&m------------------------'

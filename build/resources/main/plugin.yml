@@ -1,0 +1,14 @@
+main: me.jwhz.core.Core
+name: Core
+author: JakeDev
+version: 0.1
+depend: [Vault]
+soft-depend: [PlaceholderAPI]
+commands:
+  eswarp:
+    aliases: [eswarps]
+  kit:
+    aliases: [kits]
+  island:
+    aliases: [is, skyblock, sb]
+  spawn:

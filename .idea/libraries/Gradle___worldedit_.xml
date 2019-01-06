@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: :worldedit:">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Spigot/worldedit.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

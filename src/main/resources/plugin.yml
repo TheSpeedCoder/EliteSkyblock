@@ -1,0 +1,9 @@
+main: me.jwhz.core.Core
+name: EliteSkyblock
+author: Splodgebox
+version: 0.1
+depend: [Vault]
+soft-depend: [PlaceholderAPI]
+commands:
+  island:
+    aliases: [is, skyblock, sb]

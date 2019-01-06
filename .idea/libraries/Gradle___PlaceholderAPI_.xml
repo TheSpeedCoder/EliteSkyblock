@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: :PlaceholderAPI:">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Spigot/PlaceholderAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

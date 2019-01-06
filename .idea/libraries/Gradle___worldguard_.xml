@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: :worldguard:">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Spigot/worldguard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
